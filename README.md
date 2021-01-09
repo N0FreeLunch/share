@@ -1,3 +1,5 @@
 # share
 
-# content modified 
+# content modified
+
+# .env example check  
